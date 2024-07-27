@@ -4,3 +4,5 @@ Created using
 HTML
 CSS
 JavaScript: MERN Stack
+MongoDB
+Express
