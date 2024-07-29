@@ -7,4 +7,4 @@ JavaScript: MERN Stack
 MongoDB
 Express
 React
-Node js
+Node.js
