@@ -3,7 +3,7 @@ Full Stack eCommerce Website for viewing and purchasing books
 
 Created using
 HTML
-CSS
+Tailwind CSS
 JavaScript
 MERN Stack
 
