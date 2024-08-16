@@ -1,7 +1,7 @@
 # BookMart
-Full Stack eCommerce Website for viewing and purchasing books
+Full Stack eCommerce Responsive Website for viewing and purchasing books
 
-User can Sign-up, login, add items to cart and place order
+User can Sign-up, login, add books to cart and place order
 
 Created using
 HTML
