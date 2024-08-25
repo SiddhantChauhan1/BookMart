@@ -7,9 +7,9 @@ Created using
 HTML
 Tailwind CSS
 JavaScript
-MERN Stack
 
-MongoDB
-Express
-React
-Node.js
+MERN Stack:
+- MongoDB
+- Express
+- React
+- Node.js
